@@ -1,0 +1,28 @@
+{
+  "chatList": [
+    {
+      "id": 1,
+      "name": "aaa",
+      "ws": "aa",
+      "output": "aaa",
+      "datetime": "2014-01-01 00:00:00",
+      "star": 0
+    },
+    {
+        "id": 2,
+      "name": "aaa",
+        "ws": "af",
+        "output": "fsad",
+        "datetime": "2014-01-01 00:00:00",
+        "star": 0
+        },
+        {
+        "id": 3,
+          "name": "aaa",
+        "ws": "fasd",
+        "output": "afds",
+        "datetime": "2014-01-01 00:00:00",
+        "star": 0
+    }
+  ]
+}
